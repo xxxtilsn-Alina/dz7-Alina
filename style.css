@@ -1,0 +1,31 @@
+.card {
+    width: 480px;
+    background-color: white;
+    border: 2px solid green;
+    padding-bottom: 45px;
+    border-radius: 10px;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.img {
+    width: 480px;
+}
+
+.h2 {
+    text-align: center;
+    margin: 0;
+}
+
+.p {
+    text-align: center;
+    padding-left: 75px;
+    padding-right: 75px;
+    font-weight: 400px;
+}
+
+.span {
+    font-size: 28px;
+    display: block;
+    text-align: center;
+    font-weight: 500px;
+}
